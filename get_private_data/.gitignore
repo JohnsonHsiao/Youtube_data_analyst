@@ -1,0 +1,9 @@
+# caches
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+
+# files
+*.ipynb
+*.swp
+*.zip

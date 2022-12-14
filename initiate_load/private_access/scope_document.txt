@@ -1,0 +1,13 @@
+SCOPES NOTES!
+
+https://www.googleapis.com/auth/yt-analytics.readonly
+-> View YouTube Analytics reports for your YouTube content. This scope provides access to user activity metrics, like view counts and rating counts.
+
+https://www.googleapis.com/auth/yt-analytics-monetary.readonly
+-> View YouTube Analytics monetary reports for your YouTube content. This scope provides access to user activity metrics and to estimated revenue and ad performance metrics.
+
+https://www.googleapis.com/auth/youtube
+-> 	Manage your YouTube account. In the YouTube Analytics API, channel owners use this scope to manage YouTube Analytics groups and group items.
+
+https://www.googleapis.com/auth/youtubepartner
+->View and manage YouTube assets and associated content on YouTube. In the YouTube Analytics API, content owners use this scope to manage YouTube Analytics groups and group items.
